@@ -1,0 +1,9 @@
+system design = https://www.youtube.com/watch?v=JQDHz72OA3c
+https://www.youtube.com/watch?v=NtMvNh0WFVM
+https://www.youtube.com/watch?v=i7twT3x5yv8
+
+https://blog.logrocket.com/top-tools-node-js-monitoring/
+
+https://dev.to/davydocsurg/mastering-docker-for-nodejs-advanced-techniques-and-best-practices-55m9
+
+micro-service: 02/012
